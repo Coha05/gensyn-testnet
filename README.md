@@ -105,7 +105,7 @@ screen -r swarm
 ### 4. Get OTP with ngrok
 
 1. Sign up: https://ngrok.com/
-2. Go to authen token: https://dashboard.ngrok.com/get-started/your-authtoken
+2. Go to authen token: https://dashboard.ngrok.com/get-started/your-authtoken - Click to show the key then do below step
 3. Paste the token add to VPS
 ```
 ngrok config add-authtoken $YOUR_AUTHTOKEN
