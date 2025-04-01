@@ -3,8 +3,6 @@
 
 ## Hardware Requirements
 
-## Hardware Requirements
-
 | Component       | Requirement                                      | Notes                                      |
 |-----------------|--------------------------------------------------|--------------------------------------------|
 | **CPU**         | Minimum 16GB RAM                                 | More RAM (e.g., 32GB+) recommended for larger models or datasets |
