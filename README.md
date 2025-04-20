@@ -105,7 +105,7 @@ screen -r swarm
 ### 4. Get OTP with ngrok
 
 1. Sign up: https://ngrok.com/
-2. Go to authen token: https://dashboard.ngrok.com/get-started/your-authtoken - Click to show the key then do below step
+2. Go to authen token: https://dashboard.ngrok.com/get-started/your-authtoken - **Click to show the key then do below step**
 3. Install ngrok
 ```
 wget https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-stable-linux-amd64.zip
@@ -116,9 +116,9 @@ sudo mv ngrok /usr/local/bin
 ```
 ngrok config add-authtoken $YOUR_AUTHTOKEN
 ```
-4. Make the ngrok works 
+5. Make the ngrok works 
 ```
 ngrok http 3000
 ```
-5. Copy redirect link to port 3000
-6. Login and get OTP
+6. Copy redirect link to port 3000
+7. Login and get OTP
